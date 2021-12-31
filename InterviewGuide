@@ -1,0 +1,1 @@
+game.ReplicatedStorage.DefaultChatSystemChatEvents.SayMessageRequest:FireServer("Still in beta, unreleased!" ,"All")
